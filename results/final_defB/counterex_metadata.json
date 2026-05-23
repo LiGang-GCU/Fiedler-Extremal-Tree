@@ -1,0 +1,48 @@
+{
+  "definition": "B_global_deepest",
+  "timestamp": "2026-05-23T17:12:44.769599",
+  "table1_total_trees": 81132,
+  "table1_total_counterex": 830,
+  "table1_min_n_with_counterex": 13,
+  "table1_by_n": {
+    "5": 0,
+    "6": 0,
+    "7": 0,
+    "8": 0,
+    "9": 0,
+    "10": 0,
+    "11": 0,
+    "12": 0,
+    "13": 2,
+    "14": 12,
+    "15": 47,
+    "16": 176,
+    "17": 593
+  },
+  "table2_by_model": {
+    "BA": {
+      "counterexamples": 289,
+      "rate_pct": 11.56
+    },
+    "ER-MST": {
+      "counterexamples": 219,
+      "rate_pct": 8.76
+    },
+    "Binary": {
+      "counterexamples": 226,
+      "rate_pct": 9.04
+    },
+    "Prufer": {
+      "counterexamples": 189,
+      "rate_pct": 7.56
+    },
+    "Caterpillar": {
+      "counterexamples": 0,
+      "rate_pct": 0.0
+    },
+    "Lobster": {
+      "counterexamples": 4,
+      "rate_pct": 0.16
+    }
+  }
+}

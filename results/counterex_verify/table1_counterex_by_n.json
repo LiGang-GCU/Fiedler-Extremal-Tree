@@ -1,0 +1,108 @@
+{
+  "table1": [
+    {
+      "n": 5,
+      "total_trees": 3,
+      "oeis_match": "OK",
+      "counterexamples": 0,
+      "rate_pct": 0.0,
+      "time_s": 0.0
+    },
+    {
+      "n": 6,
+      "total_trees": 6,
+      "oeis_match": "OK",
+      "counterexamples": 0,
+      "rate_pct": 0.0,
+      "time_s": 0.0
+    },
+    {
+      "n": 7,
+      "total_trees": 11,
+      "oeis_match": "OK",
+      "counterexamples": 0,
+      "rate_pct": 0.0,
+      "time_s": 0.0
+    },
+    {
+      "n": 8,
+      "total_trees": 23,
+      "oeis_match": "OK",
+      "counterexamples": 0,
+      "rate_pct": 0.0,
+      "time_s": 0.0
+    },
+    {
+      "n": 9,
+      "total_trees": 47,
+      "oeis_match": "OK",
+      "counterexamples": 0,
+      "rate_pct": 0.0,
+      "time_s": 0.0
+    },
+    {
+      "n": 10,
+      "total_trees": 106,
+      "oeis_match": "OK",
+      "counterexamples": 0,
+      "rate_pct": 0.0,
+      "time_s": 0.0
+    },
+    {
+      "n": 11,
+      "total_trees": 235,
+      "oeis_match": "OK",
+      "counterexamples": 0,
+      "rate_pct": 0.0,
+      "time_s": 0.1
+    },
+    {
+      "n": 12,
+      "total_trees": 551,
+      "oeis_match": "OK",
+      "counterexamples": 0,
+      "rate_pct": 0.0,
+      "time_s": 0.2
+    },
+    {
+      "n": 13,
+      "total_trees": 1301,
+      "oeis_match": "OK",
+      "counterexamples": 0,
+      "rate_pct": 0.0,
+      "time_s": 0.5
+    },
+    {
+      "n": 14,
+      "total_trees": 3159,
+      "oeis_match": "OK",
+      "counterexamples": 1,
+      "rate_pct": 0.0317,
+      "time_s": 1.3
+    },
+    {
+      "n": 15,
+      "total_trees": 7741,
+      "oeis_match": "OK",
+      "counterexamples": 9,
+      "rate_pct": 0.1163,
+      "time_s": 3.4
+    },
+    {
+      "n": 16,
+      "total_trees": 19320,
+      "oeis_match": "OK",
+      "counterexamples": 43,
+      "rate_pct": 0.2226,
+      "time_s": 9.0
+    },
+    {
+      "n": 17,
+      "total_trees": 48629,
+      "oeis_match": "OK",
+      "counterexamples": 183,
+      "rate_pct": 0.3763,
+      "time_s": 23.8
+    }
+  ]
+}

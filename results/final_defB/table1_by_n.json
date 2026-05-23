@@ -1,0 +1,109 @@
+{
+  "table1": [
+    {
+      "n": 5,
+      "total_trees": 3,
+      "oeis_ok": true,
+      "counterexamples": 0,
+      "rate_pct": 0.0,
+      "time_s": 0.0
+    },
+    {
+      "n": 6,
+      "total_trees": 6,
+      "oeis_ok": true,
+      "counterexamples": 0,
+      "rate_pct": 0.0,
+      "time_s": 0.0
+    },
+    {
+      "n": 7,
+      "total_trees": 11,
+      "oeis_ok": true,
+      "counterexamples": 0,
+      "rate_pct": 0.0,
+      "time_s": 0.0
+    },
+    {
+      "n": 8,
+      "total_trees": 23,
+      "oeis_ok": true,
+      "counterexamples": 0,
+      "rate_pct": 0.0,
+      "time_s": 0.0
+    },
+    {
+      "n": 9,
+      "total_trees": 47,
+      "oeis_ok": true,
+      "counterexamples": 0,
+      "rate_pct": 0.0,
+      "time_s": 0.0
+    },
+    {
+      "n": 10,
+      "total_trees": 106,
+      "oeis_ok": true,
+      "counterexamples": 0,
+      "rate_pct": 0.0,
+      "time_s": 0.0
+    },
+    {
+      "n": 11,
+      "total_trees": 235,
+      "oeis_ok": true,
+      "counterexamples": 0,
+      "rate_pct": 0.0,
+      "time_s": 0.0
+    },
+    {
+      "n": 12,
+      "total_trees": 551,
+      "oeis_ok": true,
+      "counterexamples": 0,
+      "rate_pct": 0.0,
+      "time_s": 0.1
+    },
+    {
+      "n": 13,
+      "total_trees": 1301,
+      "oeis_ok": true,
+      "counterexamples": 2,
+      "rate_pct": 0.1537,
+      "time_s": 0.3
+    },
+    {
+      "n": 14,
+      "total_trees": 3159,
+      "oeis_ok": true,
+      "counterexamples": 12,
+      "rate_pct": 0.3799,
+      "time_s": 0.8
+    },
+    {
+      "n": 15,
+      "total_trees": 7741,
+      "oeis_ok": true,
+      "counterexamples": 47,
+      "rate_pct": 0.6072,
+      "time_s": 1.8
+    },
+    {
+      "n": 16,
+      "total_trees": 19320,
+      "oeis_ok": true,
+      "counterexamples": 176,
+      "rate_pct": 0.911,
+      "time_s": 4.8
+    },
+    {
+      "n": 17,
+      "total_trees": 48629,
+      "oeis_ok": true,
+      "counterexamples": 593,
+      "rate_pct": 1.2194,
+      "time_s": 13.4
+    }
+  ],
+  "definition": "B_global_deepest"
+}
